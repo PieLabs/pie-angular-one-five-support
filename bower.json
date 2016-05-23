@@ -3,6 +3,6 @@
   "version" : "1.0.0",
   "main" : "index.js",
   "dependencies": {
-    "pie-container" : "1.0.0"
+    "pie-container" : "git@bitbucket.org:pielibs/pie-container.git"
   }
 }
